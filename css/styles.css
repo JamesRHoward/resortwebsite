@@ -1,14 +1,40 @@
 h1 {
     margin: 35px;
+
 }
 
 .navbar {
     list-style-type: none;
-    
+
 
 }
 
 li {
     padding: 5px 5px;
-    border: solid;
+
+}
+
+body {
+    background-color: lightyellow;
+    font-family: Impact;
+
+}
+
+p {
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+img {
+    width: 640px;
+    border: solid 20px;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+a:hover	{
+    color: lightgreen;
 }
