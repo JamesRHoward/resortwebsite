@@ -1,14 +1,42 @@
 h1 {
     margin: 35px;
+
 }
 
 .navbar {
     list-style-type: none;
-    
+
 
 }
 
 li {
     padding: 5px 5px;
-    border: solid;
+
+}
+
+body {
+    background-color: lavender;
+    font-family: cursive;
+    font-size: 25px;
+
+}
+
+p {
+    font-family: fantasy;
+    font-style: italic;
+
+}
+
+img {
+    width: 640px;
+    border: solid 20px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover	{
+    color: lightblue;
 }
