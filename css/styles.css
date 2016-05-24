@@ -1,0 +1,14 @@
+h1 {
+    margin: 35px;
+}
+
+.navbar {
+    list-style-type: none;
+    display: inline-flex;
+
+}
+
+li {
+    padding: 5px 5px;
+    border: solid;
+}
